@@ -11,8 +11,5 @@ public Indumentaria (string med, string pant, string cam){
     Pantalon=pant;
     Camiseta=cam;
 }
-public Indumentaria(string EquipoSeleccionado, Indumentaria item)
-{
-bool equipoExistente;
-}
+
 }

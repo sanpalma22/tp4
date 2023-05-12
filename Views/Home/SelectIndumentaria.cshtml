@@ -1,0 +1,64 @@
+@{
+    int cont =1;
+}
+<form action='@Url.Action("GuardarIndumentaria","Home")'>
+    <select>
+        <option value="" selected>Selecciona una opción</option>
+        @foreach (string item in ViewBag.ListaEquipos)
+        {
+            <option value="@cont">@item</option>
+            cont++;
+        }
+    </select> 
+<table>
+    @{
+        cont=1;
+    }
+    <tr>
+        @foreach (string item in ViewBag.ListaCamisetas)
+    {   
+        <th>
+            <div>
+                <h3>@cont</h3>
+                <img src="/imagenesCamiseta/@item"><img/>
+            </div>
+        </th>
+        cont++;
+    }
+    <th><input type="number" min="0" max="10" name="Camiseta"></th>
+    </tr> 
+    @{
+        cont=1;
+    }
+    <tr>
+        @foreach (string item in ViewBag.ListaPantalones)
+    {
+        <th>
+            <div>
+                <h3>@cont</h3>
+                <img src="/imagenesShorts/@item"><img/>
+            </div>
+        </th>
+        cont++;
+    }
+    <th><input type="number" min="0" max="10" name="Shorts"></th>
+    </tr>
+    @{
+       cont=1;
+    }
+    <tr>
+        @foreach (string item in ViewBag.ListaMedias)
+    {
+        <th>
+            <div>
+                <h3>@cont</h3>
+                <img src="/imagenesMedias/@item"><img/>
+            </div>
+        </th>   
+        cont++;    
+    }
+    <th><input type="number" min="0" max="10" name="Medias"></th>
+    </tr>    
+</table>
+<input type="submit">
+</form>

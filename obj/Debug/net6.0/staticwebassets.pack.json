@@ -1,19 +1,151 @@
 {
   "Files": [
     {
-      "Id": "Z:\\ort2023\\prog\\Tp4\\Tp4\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Tp4.bundle.scp.css",
+      "Id": "D:\\Downloads\\tp4_Files\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Tp4.bundle.scp.css",
       "PackagePath": "staticwebassets\\Tp4.bundle.scp.css"
     },
     {
-      "Id": "Z:\\ort2023\\prog\\Tp4\\Tp4\\wwwroot\\css\\site.css",
+      "Id": "D:\\Downloads\\tp4_Files\\wwwroot\\Thumbs.db",
+      "PackagePath": "staticwebassets\\Thumbs.db"
+    },
+    {
+      "Id": "D:\\Downloads\\tp4_Files\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "Z:\\ort2023\\prog\\Tp4\\Tp4\\wwwroot\\favicon.ico",
+      "Id": "D:\\Downloads\\tp4_Files\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "Z:\\ort2023\\prog\\Tp4\\Tp4\\wwwroot\\js\\site.js",
+      "Id": "D:\\Downloads\\tp4_Files\\wwwroot\\imagenesCamiseta\\remeraBanfield.webp",
+      "PackagePath": "staticwebassets\\imagenesCamiseta\\remeraBanfield.webp"
+    },
+    {
+      "Id": "D:\\Downloads\\tp4_Files\\wwwroot\\imagenesCamiseta\\remeraBelgrano.jpg",
+      "PackagePath": "staticwebassets\\imagenesCamiseta\\remeraBelgrano.jpg"
+    },
+    {
+      "Id": "D:\\Downloads\\tp4_Files\\wwwroot\\imagenesCamiseta\\remeraBoca.jfif",
+      "PackagePath": "staticwebassets\\imagenesCamiseta\\remeraBoca.jfif"
+    },
+    {
+      "Id": "D:\\Downloads\\tp4_Files\\wwwroot\\imagenesCamiseta\\remeraIndependiente.webp",
+      "PackagePath": "staticwebassets\\imagenesCamiseta\\remeraIndependiente.webp"
+    },
+    {
+      "Id": "D:\\Downloads\\tp4_Files\\wwwroot\\imagenesCamiseta\\remeraLanus.jpg",
+      "PackagePath": "staticwebassets\\imagenesCamiseta\\remeraLanus.jpg"
+    },
+    {
+      "Id": "D:\\Downloads\\tp4_Files\\wwwroot\\imagenesCamiseta\\remeraRacing.webp",
+      "PackagePath": "staticwebassets\\imagenesCamiseta\\remeraRacing.webp"
+    },
+    {
+      "Id": "D:\\Downloads\\tp4_Files\\wwwroot\\imagenesCamiseta\\remeraRiver.webp",
+      "PackagePath": "staticwebassets\\imagenesCamiseta\\remeraRiver.webp"
+    },
+    {
+      "Id": "D:\\Downloads\\tp4_Files\\wwwroot\\imagenesCamiseta\\remeraRosarioCentral.jpg",
+      "PackagePath": "staticwebassets\\imagenesCamiseta\\remeraRosarioCentral.jpg"
+    },
+    {
+      "Id": "D:\\Downloads\\tp4_Files\\wwwroot\\imagenesCamiseta\\remeraSanLorenzo.jfif",
+      "PackagePath": "staticwebassets\\imagenesCamiseta\\remeraSanLorenzo.jfif"
+    },
+    {
+      "Id": "D:\\Downloads\\tp4_Files\\wwwroot\\imagenesCamiseta\\remeraTalleres.jpg",
+      "PackagePath": "staticwebassets\\imagenesCamiseta\\remeraTalleres.jpg"
+    },
+    {
+      "Id": "D:\\Downloads\\tp4_Files\\wwwroot\\imagenesMedias\\MediasRacing.webp",
+      "PackagePath": "staticwebassets\\imagenesMedias\\MediasRacing.webp"
+    },
+    {
+      "Id": "D:\\Downloads\\tp4_Files\\wwwroot\\imagenesMedias\\MediasRiver.jpg",
+      "PackagePath": "staticwebassets\\imagenesMedias\\MediasRiver.jpg"
+    },
+    {
+      "Id": "D:\\Downloads\\tp4_Files\\wwwroot\\imagenesMedias\\Thumbs.db",
+      "PackagePath": "staticwebassets\\imagenesMedias\\Thumbs.db"
+    },
+    {
+      "Id": "D:\\Downloads\\tp4_Files\\wwwroot\\imagenesMedias\\mediasBanfield.webp",
+      "PackagePath": "staticwebassets\\imagenesMedias\\mediasBanfield.webp"
+    },
+    {
+      "Id": "D:\\Downloads\\tp4_Files\\wwwroot\\imagenesMedias\\mediasBelgrano.jpg",
+      "PackagePath": "staticwebassets\\imagenesMedias\\mediasBelgrano.jpg"
+    },
+    {
+      "Id": "D:\\Downloads\\tp4_Files\\wwwroot\\imagenesMedias\\mediasBoca.webp",
+      "PackagePath": "staticwebassets\\imagenesMedias\\mediasBoca.webp"
+    },
+    {
+      "Id": "D:\\Downloads\\tp4_Files\\wwwroot\\imagenesMedias\\mediasIndependiente.jpg",
+      "PackagePath": "staticwebassets\\imagenesMedias\\mediasIndependiente.jpg"
+    },
+    {
+      "Id": "D:\\Downloads\\tp4_Files\\wwwroot\\imagenesMedias\\mediasLanus.jpg",
+      "PackagePath": "staticwebassets\\imagenesMedias\\mediasLanus.jpg"
+    },
+    {
+      "Id": "D:\\Downloads\\tp4_Files\\wwwroot\\imagenesMedias\\mediasRosarioCentral.jpg",
+      "PackagePath": "staticwebassets\\imagenesMedias\\mediasRosarioCentral.jpg"
+    },
+    {
+      "Id": "D:\\Downloads\\tp4_Files\\wwwroot\\imagenesMedias\\mediasSanLorenzo.jpg",
+      "PackagePath": "staticwebassets\\imagenesMedias\\mediasSanLorenzo.jpg"
+    },
+    {
+      "Id": "D:\\Downloads\\tp4_Files\\wwwroot\\imagenesMedias\\mediasTalleres.jpg",
+      "PackagePath": "staticwebassets\\imagenesMedias\\mediasTalleres.jpg"
+    },
+    {
+      "Id": "D:\\Downloads\\tp4_Files\\wwwroot\\imagenesShorts\\Thumbs.db",
+      "PackagePath": "staticwebassets\\imagenesShorts\\Thumbs.db"
+    },
+    {
+      "Id": "D:\\Downloads\\tp4_Files\\wwwroot\\imagenesShorts\\shortBanfield.jfif",
+      "PackagePath": "staticwebassets\\imagenesShorts\\shortBanfield.jfif"
+    },
+    {
+      "Id": "D:\\Downloads\\tp4_Files\\wwwroot\\imagenesShorts\\shortBoca.jfif",
+      "PackagePath": "staticwebassets\\imagenesShorts\\shortBoca.jfif"
+    },
+    {
+      "Id": "D:\\Downloads\\tp4_Files\\wwwroot\\imagenesShorts\\shortIndependiente.jfif",
+      "PackagePath": "staticwebassets\\imagenesShorts\\shortIndependiente.jfif"
+    },
+    {
+      "Id": "D:\\Downloads\\tp4_Files\\wwwroot\\imagenesShorts\\shortLanus.jfif",
+      "PackagePath": "staticwebassets\\imagenesShorts\\shortLanus.jfif"
+    },
+    {
+      "Id": "D:\\Downloads\\tp4_Files\\wwwroot\\imagenesShorts\\shortRacing.jpg",
+      "PackagePath": "staticwebassets\\imagenesShorts\\shortRacing.jpg"
+    },
+    {
+      "Id": "D:\\Downloads\\tp4_Files\\wwwroot\\imagenesShorts\\shortRiver.jpg",
+      "PackagePath": "staticwebassets\\imagenesShorts\\shortRiver.jpg"
+    },
+    {
+      "Id": "D:\\Downloads\\tp4_Files\\wwwroot\\imagenesShorts\\shortRosarioCentral.jpg",
+      "PackagePath": "staticwebassets\\imagenesShorts\\shortRosarioCentral.jpg"
+    },
+    {
+      "Id": "D:\\Downloads\\tp4_Files\\wwwroot\\imagenesShorts\\shortSanLorenzo.jfif",
+      "PackagePath": "staticwebassets\\imagenesShorts\\shortSanLorenzo.jfif"
+    },
+    {
+      "Id": "D:\\Downloads\\tp4_Files\\wwwroot\\imagenesShorts\\shortTalleres.webp",
+      "PackagePath": "staticwebassets\\imagenesShorts\\shortTalleres.webp"
+    },
+    {
+      "Id": "D:\\Downloads\\tp4_Files\\wwwroot\\imagenesShorts\\shortbelgrano.jpg",
+      "PackagePath": "staticwebassets\\imagenesShorts\\shortbelgrano.jpg"
+    },
+    {
+      "Id": "D:\\Downloads\\tp4_Files\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {

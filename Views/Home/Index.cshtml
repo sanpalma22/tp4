@@ -1,5 +1,11 @@
 ﻿@{
     ViewData["Title"] = "Index";
 }
+<h1>Creador de Indumentarias</h1>
+<a href='@Url.Action("SelectIndumentaria","Home")'>Elige la indumentaria</a>
+@foreach (Indumentaria unaIndumentaria in Equipos.EquiposIndumentaria.Keys)
+{
+    <img src="">
+}
 
-<h1>TP XX - Index</h1>
+
