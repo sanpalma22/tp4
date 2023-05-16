@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7/EKge0Fyc/KfBr0BDzv3EGsv7KxXse9ZzX6CXAokjDlNSILbKgvvOZUYOt0jz0VO9aGj8pQv5qFT31owDy8CQ==",
+  "dgSpecHash": "sTMVmrG/Q5z0CgMI7P9gID3Tgne7XM6O8gaa2Ts8RiQ0Ts72QwjN+ze4usSAaZhxx1n+ILzaX7XWflo99aVIQg==",
   "success": true,
-  "projectFilePath": "D:\\Downloads\\tp4_Files\\Tp4.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Santi Palma\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
-    "C:\\Users\\Santi Palma\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
-    "C:\\Users\\Santi Palma\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
-    "C:\\Users\\Santi Palma\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.16\\microsoft.netcore.app.host.win-x64.6.0.16.nupkg.sha512"
-  ],
+  "projectFilePath": "Z:\\ort2023\\prog\\tp4\\Tp4.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

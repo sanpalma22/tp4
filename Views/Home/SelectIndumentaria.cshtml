@@ -1,8 +1,8 @@
 @{
-    int cont =1;
+    int cont =0;
 }
 <form action='@Url.Action("GuardarIndumentaria","Home")'>
-    <select>
+    <select name="Equipo">
         <option value="" selected>Selecciona una opción</option>
         @foreach (string item in ViewBag.ListaEquipos)
         {
@@ -60,5 +60,5 @@
     <th><input type="number" min="0" max="10" name="Medias"></th>
     </tr>    
 </table>
-<input type="submit">
+<input type="submit" value="Guardar indumentaria">
 </form>

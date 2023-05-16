@@ -11,7 +11,8 @@ public static class Equipos
     public static bool IngresarIndumentaria(string EquipoSeleccionado, Indumentaria item)
     {
         bool equipoExistente=false;
-        
+        Equipos.EquiposIndumentaria.Add(EquipoSeleccionado,item);
+
         return equipoExistente;
     }
 }

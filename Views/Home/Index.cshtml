@@ -3,9 +3,13 @@
 }
 <h1>Creador de Indumentarias</h1>
 <a href='@Url.Action("SelectIndumentaria","Home")'>Elige la indumentaria</a>
-@foreach (Indumentaria unaIndumentaria in Equipos.EquiposIndumentaria.Keys)
+
+@if(ViewBag.EquiposIndumentaria!=null){
+@foreach (string nombreEquipo in ViewBag.EquiposIndumentaria.Keys)
 {
-    <img src="">
+    <h3>hola</h3>
+
+    <img src="@ViewBag.EquiposIndumentaria.Medias">
 }
 
-
+}

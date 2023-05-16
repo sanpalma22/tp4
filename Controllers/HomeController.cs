@@ -19,8 +19,10 @@ public class HomeController : Controller
     public IActionResult GuardarIndumentaria (int Equipo, int Medias, int Shorts, int Camiseta){
         if(Equipo!=0&&Medias>0&&Shorts>0&&Camiseta>0){
             Indumentaria unaIndumentaria=new Indumentaria(Equipos.ListaMedias[Medias-1],Equipos.ListaPantalones[Shorts-1],Equipos.ListaCamisetas[Camiseta-1]);
+            bool ingreso=Equipos.IngresarIndumentaria(Equipos.ListaEquipos[Equipo],unaIndumentaria);
+            
         }
-        //ViewBag.EquiposIndumentaria=Equipos.EquiposIndumentaria;
+        ViewBag.EquiposIndumentaria=Equipos.EquiposIndumentaria;
         return View("Index");
     }
 }
