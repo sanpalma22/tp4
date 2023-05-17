@@ -10,9 +10,10 @@ public static class Equipos
     public static Dictionary<string, Indumentaria> EquiposIndumentaria { get; private set; }
     public static bool IngresarIndumentaria(string EquipoSeleccionado, Indumentaria item)
     {
-        bool equipoExistente=false;
-        Equipos.EquiposIndumentaria.Add(EquipoSeleccionado,item);
-
+        bool equipoExistente=Equipos.EquiposIndumentaria.ContainsKey(EquipoSeleccionado);
+        if (!equipoExistente){
+            Equipos.EquiposIndumentaria.Add(EquipoSeleccionado,item);
+        }    
         return equipoExistente;
     }
 }

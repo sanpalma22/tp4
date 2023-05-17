@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "rkZrV1+vGfyebRVFIYEeFjvZqKdLd81Xebio8FaNm7c=",
+  "Hash": "lyxRRQVSU7hEieS7AbxVrB0+Z5TFmplMFjCCToAXJ0Q=",
   "Source": "Tp4",
   "BasePath": "_content/Tp4",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Tp4\\wwwroot",
       "Source": "Tp4",
-      "ContentRoot": "Z:\\ort2023\\prog\\tp4\\wwwroot\\",
+      "ContentRoot": "D:\\prog4\\tp4\\wwwroot\\",
       "BasePath": "_content/Tp4",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "Z:\\ort2023\\prog\\tp4\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Tp4.styles.css",
+      "Identity": "D:\\prog4\\tp4\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Tp4.styles.css",
       "SourceId": "Tp4",
       "SourceType": "Computed",
-      "ContentRoot": "Z:\\ort2023\\prog\\tp4\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "D:\\prog4\\tp4\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Tp4",
       "RelativePath": "Tp4.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "Z:\\ort2023\\prog\\tp4\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Tp4.styles.css"
+      "OriginalItemSpec": "D:\\prog4\\tp4\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Tp4.styles.css"
     },
     {
-      "Identity": "Z:\\ort2023\\prog\\tp4\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Tp4.bundle.scp.css",
+      "Identity": "D:\\prog4\\tp4\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Tp4.bundle.scp.css",
       "SourceId": "Tp4",
       "SourceType": "Computed",
-      "ContentRoot": "Z:\\ort2023\\prog\\tp4\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "D:\\prog4\\tp4\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/Tp4",
       "RelativePath": "Tp4.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "Z:\\ort2023\\prog\\tp4\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Tp4.bundle.scp.css"
+      "OriginalItemSpec": "D:\\prog4\\tp4\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Tp4.bundle.scp.css"
     },
     {
-      "Identity": "Z:\\ort2023\\prog\\tp4\\wwwroot\\css\\site.css",
+      "Identity": "D:\\prog4\\tp4\\wwwroot\\css\\site.css",
       "SourceId": "Tp4",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\ort2023\\prog\\tp4\\wwwroot\\",
+      "ContentRoot": "D:\\prog4\\tp4\\wwwroot\\",
       "BasePath": "_content/Tp4",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "Z:\\ort2023\\prog\\tp4\\wwwroot\\favicon.ico",
+      "Identity": "D:\\prog4\\tp4\\wwwroot\\favicon.ico",
       "SourceId": "Tp4",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\ort2023\\prog\\tp4\\wwwroot\\",
+      "ContentRoot": "D:\\prog4\\tp4\\wwwroot\\",
       "BasePath": "_content/Tp4",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "Z:\\ort2023\\prog\\tp4\\wwwroot\\imagenesCamiseta\\remeraBanfield.webp",
+      "Identity": "D:\\prog4\\tp4\\wwwroot\\imagenesCamiseta\\remeraBanfield.webp",
       "SourceId": "Tp4",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\ort2023\\prog\\tp4\\wwwroot\\",
+      "ContentRoot": "D:\\prog4\\tp4\\wwwroot\\",
       "BasePath": "_content/Tp4",
       "RelativePath": "imagenesCamiseta/remeraBanfield.webp",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\imagenesCamiseta\\remeraBanfield.webp"
     },
     {
-      "Identity": "Z:\\ort2023\\prog\\tp4\\wwwroot\\imagenesCamiseta\\remeraBelgrano.jpg",
+      "Identity": "D:\\prog4\\tp4\\wwwroot\\imagenesCamiseta\\remeraBelgrano.jpg",
       "SourceId": "Tp4",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\ort2023\\prog\\tp4\\wwwroot\\",
+      "ContentRoot": "D:\\prog4\\tp4\\wwwroot\\",
       "BasePath": "_content/Tp4",
       "RelativePath": "imagenesCamiseta/remeraBelgrano.jpg",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\imagenesCamiseta\\remeraBelgrano.jpg"
     },
     {
-      "Identity": "Z:\\ort2023\\prog\\tp4\\wwwroot\\imagenesCamiseta\\remeraBoca.jfif",
+      "Identity": "D:\\prog4\\tp4\\wwwroot\\imagenesCamiseta\\remeraBoca.jfif",
       "SourceId": "Tp4",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\ort2023\\prog\\tp4\\wwwroot\\",
+      "ContentRoot": "D:\\prog4\\tp4\\wwwroot\\",
       "BasePath": "_content/Tp4",
       "RelativePath": "imagenesCamiseta/remeraBoca.jfif",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\imagenesCamiseta\\remeraBoca.jfif"
     },
     {
-      "Identity": "Z:\\ort2023\\prog\\tp4\\wwwroot\\imagenesCamiseta\\remeraIndependiente.webp",
+      "Identity": "D:\\prog4\\tp4\\wwwroot\\imagenesCamiseta\\remeraIndependiente.webp",
       "SourceId": "Tp4",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\ort2023\\prog\\tp4\\wwwroot\\",
+      "ContentRoot": "D:\\prog4\\tp4\\wwwroot\\",
       "BasePath": "_content/Tp4",
       "RelativePath": "imagenesCamiseta/remeraIndependiente.webp",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\imagenesCamiseta\\remeraIndependiente.webp"
     },
     {
-      "Identity": "Z:\\ort2023\\prog\\tp4\\wwwroot\\imagenesCamiseta\\remeraLanus.jpg",
+      "Identity": "D:\\prog4\\tp4\\wwwroot\\imagenesCamiseta\\remeraLanus.jpg",
       "SourceId": "Tp4",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\ort2023\\prog\\tp4\\wwwroot\\",
+      "ContentRoot": "D:\\prog4\\tp4\\wwwroot\\",
       "BasePath": "_content/Tp4",
       "RelativePath": "imagenesCamiseta/remeraLanus.jpg",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\imagenesCamiseta\\remeraLanus.jpg"
     },
     {
-      "Identity": "Z:\\ort2023\\prog\\tp4\\wwwroot\\imagenesCamiseta\\remeraRacing.webp",
+      "Identity": "D:\\prog4\\tp4\\wwwroot\\imagenesCamiseta\\remeraRacing.webp",
       "SourceId": "Tp4",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\ort2023\\prog\\tp4\\wwwroot\\",
+      "ContentRoot": "D:\\prog4\\tp4\\wwwroot\\",
       "BasePath": "_content/Tp4",
       "RelativePath": "imagenesCamiseta/remeraRacing.webp",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\imagenesCamiseta\\remeraRacing.webp"
     },
     {
-      "Identity": "Z:\\ort2023\\prog\\tp4\\wwwroot\\imagenesCamiseta\\remeraRiver.webp",
+      "Identity": "D:\\prog4\\tp4\\wwwroot\\imagenesCamiseta\\remeraRiver.webp",
       "SourceId": "Tp4",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\ort2023\\prog\\tp4\\wwwroot\\",
+      "ContentRoot": "D:\\prog4\\tp4\\wwwroot\\",
       "BasePath": "_content/Tp4",
       "RelativePath": "imagenesCamiseta/remeraRiver.webp",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\imagenesCamiseta\\remeraRiver.webp"
     },
     {
-      "Identity": "Z:\\ort2023\\prog\\tp4\\wwwroot\\imagenesCamiseta\\remeraRosarioCentral.jpg",
+      "Identity": "D:\\prog4\\tp4\\wwwroot\\imagenesCamiseta\\remeraRosarioCentral.jpg",
       "SourceId": "Tp4",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\ort2023\\prog\\tp4\\wwwroot\\",
+      "ContentRoot": "D:\\prog4\\tp4\\wwwroot\\",
       "BasePath": "_content/Tp4",
       "RelativePath": "imagenesCamiseta/remeraRosarioCentral.jpg",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\imagenesCamiseta\\remeraRosarioCentral.jpg"
     },
     {
-      "Identity": "Z:\\ort2023\\prog\\tp4\\wwwroot\\imagenesCamiseta\\remeraSanLorenzo.jfif",
+      "Identity": "D:\\prog4\\tp4\\wwwroot\\imagenesCamiseta\\remeraSanLorenzo.jfif",
       "SourceId": "Tp4",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\ort2023\\prog\\tp4\\wwwroot\\",
+      "ContentRoot": "D:\\prog4\\tp4\\wwwroot\\",
       "BasePath": "_content/Tp4",
       "RelativePath": "imagenesCamiseta/remeraSanLorenzo.jfif",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\imagenesCamiseta\\remeraSanLorenzo.jfif"
     },
     {
-      "Identity": "Z:\\ort2023\\prog\\tp4\\wwwroot\\imagenesCamiseta\\remeraTalleres.jpg",
+      "Identity": "D:\\prog4\\tp4\\wwwroot\\imagenesCamiseta\\remeraTalleres.jpg",
       "SourceId": "Tp4",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\ort2023\\prog\\tp4\\wwwroot\\",
+      "ContentRoot": "D:\\prog4\\tp4\\wwwroot\\",
       "BasePath": "_content/Tp4",
       "RelativePath": "imagenesCamiseta/remeraTalleres.jpg",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\imagenesCamiseta\\remeraTalleres.jpg"
     },
     {
-      "Identity": "Z:\\ort2023\\prog\\tp4\\wwwroot\\imagenesMedias\\mediasBanfield.webp",
+      "Identity": "D:\\prog4\\tp4\\wwwroot\\imagenesMedias\\mediasBanfield.webp",
       "SourceId": "Tp4",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\ort2023\\prog\\tp4\\wwwroot\\",
+      "ContentRoot": "D:\\prog4\\tp4\\wwwroot\\",
       "BasePath": "_content/Tp4",
       "RelativePath": "imagenesMedias/mediasBanfield.webp",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\imagenesMedias\\mediasBanfield.webp"
     },
     {
-      "Identity": "Z:\\ort2023\\prog\\tp4\\wwwroot\\imagenesMedias\\mediasBelgrano.jpg",
+      "Identity": "D:\\prog4\\tp4\\wwwroot\\imagenesMedias\\mediasBelgrano.jpg",
       "SourceId": "Tp4",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\ort2023\\prog\\tp4\\wwwroot\\",
+      "ContentRoot": "D:\\prog4\\tp4\\wwwroot\\",
       "BasePath": "_content/Tp4",
       "RelativePath": "imagenesMedias/mediasBelgrano.jpg",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\imagenesMedias\\mediasBelgrano.jpg"
     },
     {
-      "Identity": "Z:\\ort2023\\prog\\tp4\\wwwroot\\imagenesMedias\\mediasBoca.webp",
+      "Identity": "D:\\prog4\\tp4\\wwwroot\\imagenesMedias\\mediasBoca.webp",
       "SourceId": "Tp4",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\ort2023\\prog\\tp4\\wwwroot\\",
+      "ContentRoot": "D:\\prog4\\tp4\\wwwroot\\",
       "BasePath": "_content/Tp4",
       "RelativePath": "imagenesMedias/mediasBoca.webp",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\imagenesMedias\\mediasBoca.webp"
     },
     {
-      "Identity": "Z:\\ort2023\\prog\\tp4\\wwwroot\\imagenesMedias\\mediasIndependiente.jpg",
+      "Identity": "D:\\prog4\\tp4\\wwwroot\\imagenesMedias\\mediasIndependiente.jpg",
       "SourceId": "Tp4",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\ort2023\\prog\\tp4\\wwwroot\\",
+      "ContentRoot": "D:\\prog4\\tp4\\wwwroot\\",
       "BasePath": "_content/Tp4",
       "RelativePath": "imagenesMedias/mediasIndependiente.jpg",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\imagenesMedias\\mediasIndependiente.jpg"
     },
     {
-      "Identity": "Z:\\ort2023\\prog\\tp4\\wwwroot\\imagenesMedias\\mediasLanus.jpg",
+      "Identity": "D:\\prog4\\tp4\\wwwroot\\imagenesMedias\\mediasLanus.jpg",
       "SourceId": "Tp4",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\ort2023\\prog\\tp4\\wwwroot\\",
+      "ContentRoot": "D:\\prog4\\tp4\\wwwroot\\",
       "BasePath": "_content/Tp4",
       "RelativePath": "imagenesMedias/mediasLanus.jpg",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\imagenesMedias\\mediasLanus.jpg"
     },
     {
-      "Identity": "Z:\\ort2023\\prog\\tp4\\wwwroot\\imagenesMedias\\MediasRacing.webp",
+      "Identity": "D:\\prog4\\tp4\\wwwroot\\imagenesMedias\\MediasRacing.webp",
       "SourceId": "Tp4",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\ort2023\\prog\\tp4\\wwwroot\\",
+      "ContentRoot": "D:\\prog4\\tp4\\wwwroot\\",
       "BasePath": "_content/Tp4",
       "RelativePath": "imagenesMedias/MediasRacing.webp",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\imagenesMedias\\MediasRacing.webp"
     },
     {
-      "Identity": "Z:\\ort2023\\prog\\tp4\\wwwroot\\imagenesMedias\\MediasRiver.jpg",
+      "Identity": "D:\\prog4\\tp4\\wwwroot\\imagenesMedias\\MediasRiver.jpg",
       "SourceId": "Tp4",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\ort2023\\prog\\tp4\\wwwroot\\",
+      "ContentRoot": "D:\\prog4\\tp4\\wwwroot\\",
       "BasePath": "_content/Tp4",
       "RelativePath": "imagenesMedias/MediasRiver.jpg",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\imagenesMedias\\MediasRiver.jpg"
     },
     {
-      "Identity": "Z:\\ort2023\\prog\\tp4\\wwwroot\\imagenesMedias\\mediasRosarioCentral.jpg",
+      "Identity": "D:\\prog4\\tp4\\wwwroot\\imagenesMedias\\mediasRosarioCentral.jpg",
       "SourceId": "Tp4",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\ort2023\\prog\\tp4\\wwwroot\\",
+      "ContentRoot": "D:\\prog4\\tp4\\wwwroot\\",
       "BasePath": "_content/Tp4",
       "RelativePath": "imagenesMedias/mediasRosarioCentral.jpg",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\imagenesMedias\\mediasRosarioCentral.jpg"
     },
     {
-      "Identity": "Z:\\ort2023\\prog\\tp4\\wwwroot\\imagenesMedias\\mediasSanLorenzo.jpg",
+      "Identity": "D:\\prog4\\tp4\\wwwroot\\imagenesMedias\\mediasSanLorenzo.jpg",
       "SourceId": "Tp4",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\ort2023\\prog\\tp4\\wwwroot\\",
+      "ContentRoot": "D:\\prog4\\tp4\\wwwroot\\",
       "BasePath": "_content/Tp4",
       "RelativePath": "imagenesMedias/mediasSanLorenzo.jpg",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\imagenesMedias\\mediasSanLorenzo.jpg"
     },
     {
-      "Identity": "Z:\\ort2023\\prog\\tp4\\wwwroot\\imagenesMedias\\mediasTalleres.jpg",
+      "Identity": "D:\\prog4\\tp4\\wwwroot\\imagenesMedias\\mediasTalleres.jpg",
       "SourceId": "Tp4",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\ort2023\\prog\\tp4\\wwwroot\\",
+      "ContentRoot": "D:\\prog4\\tp4\\wwwroot\\",
       "BasePath": "_content/Tp4",
       "RelativePath": "imagenesMedias/mediasTalleres.jpg",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\imagenesMedias\\mediasTalleres.jpg"
     },
     {
-      "Identity": "Z:\\ort2023\\prog\\tp4\\wwwroot\\imagenesMedias\\Thumbs.db",
+      "Identity": "D:\\prog4\\tp4\\wwwroot\\imagenesMedias\\Thumbs.db",
       "SourceId": "Tp4",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\ort2023\\prog\\tp4\\wwwroot\\",
+      "ContentRoot": "D:\\prog4\\tp4\\wwwroot\\",
       "BasePath": "_content/Tp4",
       "RelativePath": "imagenesMedias/Thumbs.db",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\imagenesMedias\\Thumbs.db"
     },
     {
-      "Identity": "Z:\\ort2023\\prog\\tp4\\wwwroot\\imagenesShorts\\shortBanfield.jfif",
+      "Identity": "D:\\prog4\\tp4\\wwwroot\\imagenesShorts\\shortBanfield.jfif",
       "SourceId": "Tp4",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\ort2023\\prog\\tp4\\wwwroot\\",
+      "ContentRoot": "D:\\prog4\\tp4\\wwwroot\\",
       "BasePath": "_content/Tp4",
       "RelativePath": "imagenesShorts/shortBanfield.jfif",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\imagenesShorts\\shortBanfield.jfif"
     },
     {
-      "Identity": "Z:\\ort2023\\prog\\tp4\\wwwroot\\imagenesShorts\\shortbelgrano.jpg",
+      "Identity": "D:\\prog4\\tp4\\wwwroot\\imagenesShorts\\shortbelgrano.jpg",
       "SourceId": "Tp4",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\ort2023\\prog\\tp4\\wwwroot\\",
+      "ContentRoot": "D:\\prog4\\tp4\\wwwroot\\",
       "BasePath": "_content/Tp4",
       "RelativePath": "imagenesShorts/shortbelgrano.jpg",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\imagenesShorts\\shortbelgrano.jpg"
     },
     {
-      "Identity": "Z:\\ort2023\\prog\\tp4\\wwwroot\\imagenesShorts\\shortBoca.jfif",
+      "Identity": "D:\\prog4\\tp4\\wwwroot\\imagenesShorts\\shortBoca.jfif",
       "SourceId": "Tp4",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\ort2023\\prog\\tp4\\wwwroot\\",
+      "ContentRoot": "D:\\prog4\\tp4\\wwwroot\\",
       "BasePath": "_content/Tp4",
       "RelativePath": "imagenesShorts/shortBoca.jfif",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\imagenesShorts\\shortBoca.jfif"
     },
     {
-      "Identity": "Z:\\ort2023\\prog\\tp4\\wwwroot\\imagenesShorts\\shortIndependiente.jfif",
+      "Identity": "D:\\prog4\\tp4\\wwwroot\\imagenesShorts\\shortIndependiente.jfif",
       "SourceId": "Tp4",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\ort2023\\prog\\tp4\\wwwroot\\",
+      "ContentRoot": "D:\\prog4\\tp4\\wwwroot\\",
       "BasePath": "_content/Tp4",
       "RelativePath": "imagenesShorts/shortIndependiente.jfif",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\imagenesShorts\\shortIndependiente.jfif"
     },
     {
-      "Identity": "Z:\\ort2023\\prog\\tp4\\wwwroot\\imagenesShorts\\shortLanus.jfif",
+      "Identity": "D:\\prog4\\tp4\\wwwroot\\imagenesShorts\\shortLanus.jfif",
       "SourceId": "Tp4",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\ort2023\\prog\\tp4\\wwwroot\\",
+      "ContentRoot": "D:\\prog4\\tp4\\wwwroot\\",
       "BasePath": "_content/Tp4",
       "RelativePath": "imagenesShorts/shortLanus.jfif",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\imagenesShorts\\shortLanus.jfif"
     },
     {
-      "Identity": "Z:\\ort2023\\prog\\tp4\\wwwroot\\imagenesShorts\\shortRacing.jpg",
+      "Identity": "D:\\prog4\\tp4\\wwwroot\\imagenesShorts\\shortRacing.jpg",
       "SourceId": "Tp4",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\ort2023\\prog\\tp4\\wwwroot\\",
+      "ContentRoot": "D:\\prog4\\tp4\\wwwroot\\",
       "BasePath": "_content/Tp4",
       "RelativePath": "imagenesShorts/shortRacing.jpg",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\imagenesShorts\\shortRacing.jpg"
     },
     {
-      "Identity": "Z:\\ort2023\\prog\\tp4\\wwwroot\\imagenesShorts\\shortRiver.jpg",
+      "Identity": "D:\\prog4\\tp4\\wwwroot\\imagenesShorts\\shortRiver.jpg",
       "SourceId": "Tp4",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\ort2023\\prog\\tp4\\wwwroot\\",
+      "ContentRoot": "D:\\prog4\\tp4\\wwwroot\\",
       "BasePath": "_content/Tp4",
       "RelativePath": "imagenesShorts/shortRiver.jpg",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\imagenesShorts\\shortRiver.jpg"
     },
     {
-      "Identity": "Z:\\ort2023\\prog\\tp4\\wwwroot\\imagenesShorts\\shortRosarioCentral.jpg",
+      "Identity": "D:\\prog4\\tp4\\wwwroot\\imagenesShorts\\shortRosarioCentral.jpg",
       "SourceId": "Tp4",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\ort2023\\prog\\tp4\\wwwroot\\",
+      "ContentRoot": "D:\\prog4\\tp4\\wwwroot\\",
       "BasePath": "_content/Tp4",
       "RelativePath": "imagenesShorts/shortRosarioCentral.jpg",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\imagenesShorts\\shortRosarioCentral.jpg"
     },
     {
-      "Identity": "Z:\\ort2023\\prog\\tp4\\wwwroot\\imagenesShorts\\shortSanLorenzo.jfif",
+      "Identity": "D:\\prog4\\tp4\\wwwroot\\imagenesShorts\\shortSanLorenzo.jfif",
       "SourceId": "Tp4",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\ort2023\\prog\\tp4\\wwwroot\\",
+      "ContentRoot": "D:\\prog4\\tp4\\wwwroot\\",
       "BasePath": "_content/Tp4",
       "RelativePath": "imagenesShorts/shortSanLorenzo.jfif",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\imagenesShorts\\shortSanLorenzo.jfif"
     },
     {
-      "Identity": "Z:\\ort2023\\prog\\tp4\\wwwroot\\imagenesShorts\\shortTalleres.webp",
+      "Identity": "D:\\prog4\\tp4\\wwwroot\\imagenesShorts\\shortTalleres.webp",
       "SourceId": "Tp4",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\ort2023\\prog\\tp4\\wwwroot\\",
+      "ContentRoot": "D:\\prog4\\tp4\\wwwroot\\",
       "BasePath": "_content/Tp4",
       "RelativePath": "imagenesShorts/shortTalleres.webp",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\imagenesShorts\\shortTalleres.webp"
     },
     {
-      "Identity": "Z:\\ort2023\\prog\\tp4\\wwwroot\\imagenesShorts\\Thumbs.db",
+      "Identity": "D:\\prog4\\tp4\\wwwroot\\imagenesShorts\\Thumbs.db",
       "SourceId": "Tp4",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\ort2023\\prog\\tp4\\wwwroot\\",
+      "ContentRoot": "D:\\prog4\\tp4\\wwwroot\\",
       "BasePath": "_content/Tp4",
       "RelativePath": "imagenesShorts/Thumbs.db",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\imagenesShorts\\Thumbs.db"
     },
     {
-      "Identity": "Z:\\ort2023\\prog\\tp4\\wwwroot\\js\\site.js",
+      "Identity": "D:\\prog4\\tp4\\wwwroot\\js\\site.js",
       "SourceId": "Tp4",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\ort2023\\prog\\tp4\\wwwroot\\",
+      "ContentRoot": "D:\\prog4\\tp4\\wwwroot\\",
       "BasePath": "_content/Tp4",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "Z:\\ort2023\\prog\\tp4\\wwwroot\\Thumbs.db",
+      "Identity": "D:\\prog4\\tp4\\wwwroot\\Thumbs.db",
       "SourceId": "Tp4",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\ort2023\\prog\\tp4\\wwwroot\\",
+      "ContentRoot": "D:\\prog4\\tp4\\wwwroot\\",
       "BasePath": "_content/Tp4",
       "RelativePath": "Thumbs.db",
       "AssetKind": "All",

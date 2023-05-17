@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "sTMVmrG/Q5z0CgMI7P9gID3Tgne7XM6O8gaa2Ts8RiQ0Ts72QwjN+ze4usSAaZhxx1n+ILzaX7XWflo99aVIQg==",
+  "dgSpecHash": "d5HE4d5hy/UTCf9UB0DbXbw7hmjebzvkmuldxMQ3PVO1W0ZU2AztF4fJQ0rcw1QkTARaHqFqpVU+9YyfbuCpzA==",
   "success": true,
-  "projectFilePath": "Z:\\ort2023\\prog\\tp4\\Tp4.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\prog4\\tp4\\Tp4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Santi Palma\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Santi Palma\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Santi Palma\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Santi Palma\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.16\\microsoft.netcore.app.host.win-x64.6.0.16.nupkg.sha512"
+  ],
   "logs": []
 }
