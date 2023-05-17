@@ -1,14 +1,22 @@
 ﻿@{
     ViewData["Title"] = "Index";
 }
+<header>
 <h1>Creador de Indumentarias</h1>
 <a href='@Url.Action("SelectIndumentaria","Home")'>Elige la indumentaria</a>
+</header>
 
-@if(ViewBag.EquiposIndumentaria!=null){
+
+
 @foreach (string nombreEquipo in ViewBag.EquiposIndumentaria.Keys)
 {
-    <h3>hola</h3>
-    <img src="@ViewBag.EquiposIndumentaria.Medias">
+    <div>
+        <h3>@nombreEquipo</h3>
+        <img src="/imagenesCamiseta/@ViewBag.EquiposIndumentaria[nombreEquipo].Camiseta"><br>
+        <img src="/imagenesShorts/@ViewBag.EquiposIndumentaria[nombreEquipo].Shorts"><br>
+        <img src="/imagenesMedias/@ViewBag.EquiposIndumentaria[nombreEquipo].Medias">
+    </div>
+    
 }
 
-}
+
